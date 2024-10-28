@@ -9,16 +9,10 @@
 
     <div class="container">
         <h1>Welcome to the Home Page</h1>
+        <h2> hi </h2>
     </div>
 
-    <style>
-        .container {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
-    </style>
+   
 
     
 </body>
